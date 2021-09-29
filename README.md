@@ -1,4 +1,8 @@
-### Hi there 👋
+### Hello 👋 I'm studying to be a Fullstack developer !
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+
 
 <!--
 **SeungHe0n/SeungHe0n** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
