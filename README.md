@@ -5,8 +5,8 @@ I love the moment when small differences make the user experience better.
 
 **Skills**  
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=black) 
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=TypeScript&logoColor=white) 
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=React&logoColor=black) 
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=TypeScript&logoColor=white) 
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=Node.js&logoColor=white)  
 
 **About me**  
