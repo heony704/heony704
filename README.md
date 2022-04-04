@@ -1,5 +1,5 @@
 ### Seungheon Lee 🌱
-Hello! I am a **Web Front-end Developer** who thinks like a user.  
+Hello! I am a **Front-end Developer** who thinks like a user.  
 I'm currently learning JavaScript, TypeScript, React, and also interested in Back-end.  
 I love the moment when small differences make the user experience better. 
 
