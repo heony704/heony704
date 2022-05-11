@@ -11,7 +11,7 @@ I love the moment when small differences make the user experience better.
 
 **About me**  
 📫 lsheony704@gmail.com  
-✨ [https://about.seungheon-lee](https://watery-nation-da4.notion.site/Seungheon-Lee-4291d047162045c881fdf23230229855)  
+✨ [https://about.seungheon-lee](https://seunghe0n.github.io/portfolio/)  
 🌏 https://velog.io/@heony
 
 
