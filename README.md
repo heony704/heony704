@@ -10,9 +10,8 @@ I love the moment when small differences make the user experience better.
 
 **About me**  
 📫 heony704@gmail.com  
+🌏 [heony704.github.io](https://heony704.github.io)
 <!-- ✨ [https://about.seungheon-lee](https://heony704.github.io/portfolio/)   -->
-<!-- 🌏 https://velog.io/@heony -->
-
 
 
 <!-- ### Top Langs
